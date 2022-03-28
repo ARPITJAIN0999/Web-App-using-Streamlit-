@@ -2,4 +2,4 @@ altair
 pandas
 streamlit
 numpy
-plotly.graph_objects
+plotly==4.14.3
